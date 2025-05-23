@@ -1,0 +1,13 @@
+.DS_Store
+# Backup macOS
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+
+# WordPress plugin build
+/node_modules/
+/vendor/
+/.idea/
+/.vscode/
+/*.zip
