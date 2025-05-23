@@ -2,7 +2,6 @@
 
 /*
 Plugin Name: Custom Fields CSV Importer
-Plugin URI: https://pieroaiello.com
 Description: Importa campi personalizzati per qualsiasi tipo di post da un file CSV.
 Version: 1.0.0
 Author: Piero Aiello
