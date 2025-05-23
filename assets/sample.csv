@@ -1,0 +1,4 @@
+﻿ID,meta_key,meta_value
+123,_custom_field_one,Value A
+456,_custom_field_two,42
+789,_custom_field_three,true

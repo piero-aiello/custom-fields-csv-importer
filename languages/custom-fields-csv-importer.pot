@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: ChatGPT POT Generator\n"
+
+msgid "Import Custom Fields from CSV"
+msgstr ""
+
+msgid "This tool allows you to update custom fields for existing posts using a CSV file. The file must contain 3 columns: ID, meta_key, and meta_value."
+msgstr ""
+
+msgid "Download sample file"
+msgstr ""
+
+msgid "Select Post Types"
+msgstr ""
+
+msgid "CSV File"
+msgstr ""
+
+msgid "Preview Import"
+msgstr ""
+
+msgid "Preview failed. The file could not be read."
+msgstr ""
+
+msgid "Unable to open the CSV file."
+msgstr ""
+
+msgid "CSV must have 3 columns: ID, meta_key, meta_value."
+msgstr ""
+
+msgid "Preview (first 10 rows)"
+msgstr ""
+
+msgid "Confirm Import"
+msgstr ""
+
+msgid "Import complete"
+msgstr ""
+
+msgid "Custom fields updated for %d posts."
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Download updated records as CSV"
+msgstr ""
+
+msgid "CSV files are stored in wp-content/uploads/cfci/"
+msgstr ""
+
+msgid "%d records were skipped or not found."
+msgstr ""
+
+msgid "Download errors as CSV"
+msgstr ""
+
+msgid "View All Rows"
+msgstr ""
+
+msgid "Back to Import"
+msgstr ""
+
+msgid "Note: This beta version only supports importing plain text values. Complex ACF data structures are not yet supported."
+msgstr ""
